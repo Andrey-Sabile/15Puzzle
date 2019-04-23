@@ -168,6 +168,7 @@ public class FifteenPuzzle implements MouseListener
     
     }
     public static void main(String[] args) {
+        System.out.println("Hello world");
         FifteenPuzzle fifteenP1 = new FifteenPuzzle();    
     }
 }

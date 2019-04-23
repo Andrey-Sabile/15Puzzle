@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FifteenPuzzle",
+            "request": "launch",
+            "mainClass": "FifteenPuzzle",
+            "projectName": "15Puzzle_bdea1a2e"
+        }
+    ]
+}
