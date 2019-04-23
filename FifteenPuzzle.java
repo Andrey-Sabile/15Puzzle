@@ -141,7 +141,7 @@ public class FifteenPuzzle implements MouseListener
         sc.setForegroundColour(c);
         sc.drawString(Integer.toString(grid[x][y]),  
             x * tilesize + tilesize / 2 - (grid[x][y] / 10 * 4 + 2),
-            y * tilesize + tilesize / 2 + tilesize / 10);
+            y * tilesize + tilesize / 3 + tilesize / 10);
     }
 
     public void mouseClicked (MouseEvent e) {
